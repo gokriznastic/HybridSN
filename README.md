@@ -1,6 +1,7 @@
 # Implementation of Hybrid-Spectral-Net for Hyperspectral Image Classification.
 
-<br/>
+
+
 ## Model
 
 <img src="figure/HSI-RN.png"/>
@@ -23,13 +24,13 @@ Fig.4  The IN dataset classification result (Overall Accuracy 99.86%) of SSRN us
 
 ### University of Pavia (UP) dataset
 
-<img src="figure/UP.png"/>
+<img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/>
 
 Fig.5  The UP dataset classification result (Overall Accuracy 99.98%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
 ### Salinas (SA) dataset
 
-<img src="figure/SA.png"/>
+<img src="figure/SA-FC.jpg"/> <img src="figure/SA-GT.jpg"/> <img src="figure/SA-Pr.jpg"/>
 
 Fig.5  The UP dataset classification result (Overall Accuracy 100%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
