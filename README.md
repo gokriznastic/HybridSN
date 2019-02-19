@@ -36,6 +36,8 @@ Fig.5  The UP dataset classification result (Overall Accuracy 99.98%) of SSRN us
 
 Fig.5  The UP dataset classification result (Overall Accuracy 100%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
+#### Detailed results can be found in the [Supplemenatry Material](supplementary-material.pdf)
+
 ## Citation
 
 If you use this code in your research, we would appreciate a citation to the original paper:
