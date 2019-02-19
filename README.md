@@ -41,7 +41,7 @@ Fig.5  The UP dataset classification result (Overall Accuracy 100%) of SSRN usin
 If you use this code in your research, we would appreciate a citation to the original paper:
 
 	@article{roy2019lisht,
-            title={LiSHT: Non-Parametric Linearly Scaled Hyperbolic Tangent Activation Function for Neural Networks},
+            title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
             author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
             journal={arXiv preprint arXiv:1902.06701},
             year={2019}
