@@ -36,6 +36,18 @@ Fig.5  The UP dataset classification result (Overall Accuracy 99.98%) of SSRN us
 
 Fig.5  The UP dataset classification result (Overall Accuracy 100%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
+## Citation
+
+If you use this code in your research, we would appreciate a citation to the original paper:
+
+	@article{roy2019lisht,
+            title={LiSHT: Non-Parametric Linearly Scaled Hyperbolic Tangent Activation Function for Neural Networks},
+            author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
+            journal={arXiv preprint arXiv:1902.06701},
+            year={2019}
+        }
+
+
 ## Acknowledgement
 
 Part of codes is from a implementation of Classification of HSI using CNN by [Konstantinos Fokeas](https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image).
