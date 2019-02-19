@@ -45,7 +45,7 @@ If you use this code in your research, we would appreciate a citation to the ori
             author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
             journal={arXiv preprint arXiv:1902.06701},
             year={2019}
-        }
+            }
 
 
 ## Acknowledgement
