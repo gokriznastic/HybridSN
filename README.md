@@ -56,4 +56,4 @@ Part of this code is from a implementation of Classification of HSI using CNN by
 
 ## License
 
-Copyright (c) 2019 Gopal Krishna. Released under the MIT License. See LICENSE for details.
+Copyright (c) 2019 Gopal Krishna. Released under the MIT License. See [LICENSE](LICENSE) for details.
