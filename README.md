@@ -1,4 +1,4 @@
-# Implementation of Hybrid-Spectral-Net for Hyperspectral Image Classification.
+# Hybrid-Spectral-Net for Hyperspectral Image Classification.
 
 ## Description
 
@@ -6,7 +6,7 @@ The  HybridSN  is  spectral-spatial  3D-CNN  followed  by spatial 2D-CNN. The 3D
 
 ## Model
 
-<img src="figure/HSI-RN.png"/>
+<img src="figure/HSI-RN.jpg"/>
 
 Fig: Proposed HybridSpectralNet (HybridSN) Model with 3D and 2D convolutions for hyperspectral image (HSI) classification.
 
