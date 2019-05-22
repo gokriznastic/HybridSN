@@ -22,19 +22,19 @@ Fig: Proposed HybridSpectralNet (HybridSN) Model with 3D and 2D convolutions for
 
 <img src="figure/IP-FC.jpg"/> <img src="figure/IP-GT.jpg"/> <img src="figure/IP-Pr.jpg"/>
 
-Fig.4  The IN dataset classification result (Overall Accuracy 99.86%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. 
+Fig.4  The IN dataset classification result (Overall Accuracy 99.86%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. 
 
 ### University of Pavia (UP) dataset
 
 <img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/>
 
-Fig.5  The UP dataset classification result (Overall Accuracy 99.98%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
+Fig.5  The UP dataset classification result (Overall Accuracy 99.98%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
 ### Salinas (SA) dataset
 
 <img src="figure/SA-FC.jpg"/> <img src="figure/SA-GT.jpg"/> <img src="figure/SA-Pr.jpg"/>
 
-Fig.5  The UP dataset classification result (Overall Accuracy 100%) of SSRN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
+Fig.5  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
 #### Detailed results can be found in the [Supplementary Material](supplementary-material.pdf)
 
