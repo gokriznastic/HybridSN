@@ -20,21 +20,21 @@ Fig: Proposed HybridSpectralNet (HybridSN) Model with 3D and 2D convolutions for
 
 ### Indian Pines (IP) dataset
 
-<img src="figure/IP-FC.jpg"/> <img src="figure/IP-GT.jpg"/> <img src="figure/IP-Pr.jpg"/>
+<img src="figure/IP-FC.jpg" width="200" height="200"/> <img src="figure/IP-GT.jpg" width="200" height="200"/> <img src="figure/IP-Pr.jpg" width="200" height="200"/> <img src="figure/IP_legend.jpg" width="250" height="150"/>
 
-Fig.4  The IN dataset classification result (Overall Accuracy 99.86%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. 
+Fig.2  The IN dataset classification result (Overall Accuracy 99.81%) of BilinearNet using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend. 
 
 ### University of Pavia (UP) dataset
 
-<img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/>
+<img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/> <img src="figure/UP_legend.jpg" width="200" height="100"/>
 
-Fig.5  The UP dataset classification result (Overall Accuracy 99.98%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
+Fig.3  The UP dataset classification result (Overall Accuracy 99.99%) of BilinearNet using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend.
 
-### Salinas (SA) dataset
+### Salinas Scene (SS) dataset
 
-<img src="figure/SA-FC.jpg"/> <img src="figure/SA-GT.jpg"/> <img src="figure/SA-Pr.jpg"/>
+<img src="figure/SA-FC.jpg"/> <img src="figure/SA-GT.jpg"/> <img src="figure/SA-Pr.jpg"/> <img src="figure/SA_legend.jpg" width="300" height="150"/>
 
-Fig.5  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
+Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
 
 #### Detailed results can be found in the [Supplementary Material](supplementary-material.pdf)
 
