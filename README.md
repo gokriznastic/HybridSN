@@ -28,7 +28,7 @@ Fig.2  The IN dataset classification result (Overall Accuracy 99.81%) of Bilinea
 
 <img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/> <img src="figure/UP_legend.jpg" width="200" height="100"/>
 
-Fig.3  The UP dataset classification result (Overall Accuracy 99.99%) of BilinearNet using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend.
+Fig.3  The UP dataset classification result (Overall Accuracy 99.99%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend.
 
 ### Salinas Scene (SS) dataset
 
