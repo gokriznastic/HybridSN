@@ -49,6 +49,13 @@ If you use this code in your research, we would appreciate a citation to the ori
             journal={IEEE Geoscience and Remote Sensing Letters},
             year={2019}
             }
+	@article{roy2020lightweight,
+     	    title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral               Classification},
+            author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
+            journal={IEEE Transactions on Geoscience and Remote Sensing},
+            year={2020}
+     }
+   
 
 
 ## Acknowledgement
