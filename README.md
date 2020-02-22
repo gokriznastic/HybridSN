@@ -60,7 +60,6 @@ If you use this code in your research, we would appreciate a citation to the ori
 		}
    
 
-
 ## Acknowledgement
 
 Part of this code is from a implementation of Classification of HSI using CNN by [Konstantinos Fokeas](https://github.com/KonstantinosF/Classification-of-Hyperspectral-Image).
