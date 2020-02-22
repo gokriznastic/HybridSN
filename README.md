@@ -46,7 +46,7 @@ If you use this code in your research, we would appreciate a citation to the ori
 	@article{roy2019hybridsn,
         	title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
 		author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
-            	journal={IEEE Geoscience and Remote Sensing Letters},
+		journal={IEEE Geoscience and Remote Sensing Letters},
 		vol.={17},
 		no.={2},
 		pp.={277-281},
