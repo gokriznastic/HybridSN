@@ -48,16 +48,15 @@ If you use this code in your research, we would appreciate a citation to the ori
             author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
             journal={IEEE Geoscience and Remote Sensing Letters},
             vol. = {17},
-            no. = {2},
-	    pp. = {277-281},
+            no. = {2}, pp. = {277-281},
 	    year={2019}
             }
 	@article{roy2020lightweight,
-	title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral               Classification},
-	author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
-	journal={IEEE Transactions on Geoscience and Remote Sensing},
-	year={2020}
-	}
+		title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Classification},
+		author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
+		journal={IEEE Transactions on Geoscience and Remote Sensing},
+		year={2020}
+		}
    
 
 
