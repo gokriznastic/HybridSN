@@ -50,7 +50,7 @@ If you use this code in your research, we would appreciate a citation to the ori
 		vol.={17},
 		no.={2},
 		pp.={277-281},
-		year={2019}
+		year={2020}
 		}
 	@article{roy2020lightweight,
 		title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Classification},
