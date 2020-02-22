@@ -44,12 +44,13 @@ Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN
 If you use this code in your research, we would appreciate a citation to the original [paper](paper.pdf):
 
 	@article{roy2019hybridsn,
-            title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
-            author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
-            journal={IEEE Geoscience and Remote Sensing Letters},
-            vol. = {17},
-            no. = {2}, pp. = {277-281},
-	    year={2019}
+        	title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
+            	author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
+            	journal={IEEE Geoscience and Remote Sensing Letters},
+            	vol.={17},
+            	no.={2}, 
+	    	pp.={277-281},
+	    	year={2019}
             }
 	@article{roy2020lightweight,
 		title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Classification},
