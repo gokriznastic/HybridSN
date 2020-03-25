@@ -41,7 +41,7 @@ Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN
 
 ## Citation
 
-If you use this [HybridSN](https://github.com/gokriznastic/HybridSN) and [S3EResBoF](https://github.com/swalpa/S3EResBoF) code in your research, we would appreciate a citation to both the original [paper](paper.pdf):
+If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [S3EResBoF](https://github.com/swalpa/S3EResBoF) code in your research, we would appreciate a citation to both the original paper:
 
 	@article{roy2019hybridsn,
         	title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
