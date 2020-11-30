@@ -47,7 +47,7 @@ If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [S3EResBoF](
         	title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
 		author={Roy, Swalpa Kumar and Krishna, Gopal and Dubey, Shiv Ram and Chaudhuri, Bidyut B},
 		journal={IEEE Geoscience and Remote Sensing Letters},
-		vol.={17},
+		volume={17},
 		no.={2},
 		pp.={277-281},
 		year={2020}
@@ -56,6 +56,9 @@ If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [S3EResBoF](
 		title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Classification},
 		author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
 		journal={IEEE Transactions on Geoscience and Remote Sensing},
+		volume = {58},
+		no. = {8},
+		pp. = { 5277 - 5290},
 		year={2020}
 		}
    
