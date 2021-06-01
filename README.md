@@ -1,3 +1,11 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/attention-based-adaptive-spectral-spatial/hyperspectral-image-classification-on-kennedy)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-kennedy?p=attention-based-adaptive-spectral-spatial)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/attention-based-adaptive-spectral-spatial/hyperspectral-image-classification-on-pavia)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-pavia?p=attention-based-adaptive-spectral-spatial)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/attention-based-adaptive-spectral-spatial/hyperspectral-image-classification-on-indian)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian)
+
+
+
 # Hybrid-Spectral-Net for Hyperspectral Image Classification.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hybridsn-exploring-3d-2d-cnn-feature/hyperspectral-image-classification-on-indian)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-indian?p=hybridsn-exploring-3d-2d-cnn-feature)
