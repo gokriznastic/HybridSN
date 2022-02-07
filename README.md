@@ -41,7 +41,7 @@ Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN
 
 ## Citation
 
-If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [S3EResBoF](https://github.com/swalpa/S3EResBoF) code in your research, we would appreciate a citation to both the original paper:
+If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [HSI-Survey](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models) code in your research, we would appreciate a citation to both the original paper:
 
 	@article{roy2019hybridsn,
         	title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
@@ -52,14 +52,16 @@ If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [S3EResBoF](
 		pp.={277-281},
 		year={2020}
 		}
-	@article{roy2020lightweight,
-		title={Lightweight Spectral-Spatial Squeeze-and-Excitation Residual Bag-of-Features Learning for Hyperspectral Classification},
-		author={Roy, Swalpa Kumar and Chatterjee, Subhrasankar and Bhattacharyya, Siddhartha and Chaudhuri, Bidyut B. and Platosˇ, Jan},
-		journal={IEEE Transactions on Geoscience and Remote Sensing},
-		volume={58},
-		no.={8},
-		pp.={ 5277 - 5290},
-		year={2020}
+	@article{ahmad2021hyperspectral,
+  		title={Hyperspectral Image Classification--Traditional to Deep Models: A Survey for Future Prospects},
+  		author={Muhammad Ahmad, and Sidrah Shabbir, and Swalpa Kumar Roy, and Danfeng Hong, and Xin Wu, and Jing Yao, and Adil Mehmood Khan,
+		and Manuel Mazzara, and Salvatore Distefano, and Jocelyn Chanussot},
+  		journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  		year={2022},
+  		volume={15},
+  		pages={968-999},
+  		doi={10.1109/JSTARS.2021.3133021},
+  		publisher={IEEE}
 		}
    
 
