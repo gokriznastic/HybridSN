@@ -41,7 +41,7 @@ Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN
 
 ## Citation
 
-If you use [HybridSN](https://github.com/gokriznastic/HybridSN), [A2S2K-ResNet](https://github.com/suvojit-0x55aa/A2S2K-ResNet) and [HSI-Survey](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models) code in your research, we would appreciate a citation to both the original paper:
+If you use [HybridSN](https://github.com/gokriznastic/HybridSN) and [A2S2K-ResNet](https://github.com/suvojit-0x55aa/A2S2K-ResNet) and [HSI-Survey](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models) code in your research, we would appreciate a citation to both the original paper:
 
 	@article{roy2019hybridsn,
         	title={HybridSN: Exploring 3D-2D CNN Feature Hierarchy for Hyperspectral Image Classification},
