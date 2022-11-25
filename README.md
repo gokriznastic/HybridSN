@@ -53,15 +53,15 @@ If you use [HybridSN](https://github.com/gokriznastic/HybridSN), [A2S2K-ResNet](
 		year={2020}
 		}
 	@article{roy2020attention,
-     		title={Attention-based adaptive spectral-spatial kernel resnet for hyperspectral image classification},
-     		author={Swalpa Kumar Roy, and Suvojit Manna, and Tiecheng Song, and Lorenzo Bruzzone},
-     		journal={IEEE Transactions on Geoscience and Remote Sensing},
-		volume={59}
+		title={Attention-based adaptive spectral-spatial kernel resnet for hyperspectral image classification},
+		author={Swalpa Kumar Roy, and Suvojit Manna, and Tiecheng Song, and Lorenzo Bruzzone},
+		journal={IEEE Transactions on Geoscience and Remote Sensing},
+		volume={59},
 		no.={9},
-		pp.={7831-7843}
-     		year={2021},
-     		publisher={IEEE}
-     		}	
+		pp.={7831-7843},
+		year={2021},
+		publisher={IEEE}
+		}	
 	@article{ahmad2021hyperspectral,
   		title={Hyperspectral Image Classification--Traditional to Deep Models: A Survey for Future Prospects},
   		author={Muhammad Ahmad, and Sidrah Shabbir, and Swalpa Kumar Roy, and Danfeng Hong, and Xin Wu, and Jing Yao, and Adil Mehmood Khan,
